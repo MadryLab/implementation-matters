@@ -1,0 +1,14 @@
+gym
+numpy
+matplotlib
+pandas
+dill
+mujoco_py
+gitpython
+torch
+torchvision
+GPUtil
+tensorboardX
+tqdm
+sklearn
+cox
