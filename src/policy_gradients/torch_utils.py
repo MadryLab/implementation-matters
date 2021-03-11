@@ -208,7 +208,7 @@ def get_path_indices(not_dones):
     tensor([[1, 1, 0, 1, 1, 1, 1, 1, 1, 1],
             [1, 1, 0, 1, 1, 0, 1, 1, 0, 1]], dtype=torch.uint8)
     Then we would return:
-    [(0, 0, 3), (0, 3, 10), (1, 0, 3), (1, 3, 5), (1, 5, 9), (1, 9, 10)]
+    [(0, 0, 3), (0, 3, 10), (1, 0, 3), (1, 3, 6), (1, 6, 9), (1, 9, 10)]
     """
     indices = []
     num_timesteps = not_dones.shape[1]
