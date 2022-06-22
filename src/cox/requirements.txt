@@ -7,7 +7,7 @@ dill == 0.2.8.2
 
 # store.py: 3
 # tests.py: 4
-numpy == 1.15.0
+numpy == 1.22.0
 
 # generator.py: 3
 # readers.py: 1
