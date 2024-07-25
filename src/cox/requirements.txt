@@ -18,4 +18,4 @@ pandas == 0.21.0
 tensorboard_pytorch == 0.7.1
 
 # store.py: 2
-torch == 0.4.0
+torch == 2.2.0
